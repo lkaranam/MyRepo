@@ -1,0 +1,8 @@
+com.wordsfinder.api
+com.wordsfinder.api.test
+com.wordsfinder.common
+com.wordsfinder.common.test
+com.wordsfinder.config
+com.wordsfinder.dictionary
+com.wordsfinder.dictionary.test
+com.wordsfinder.main
