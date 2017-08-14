@@ -1,0 +1,5 @@
+com.shipment.application
+com.shipment.config
+com.shipment.finder
+com.shipment.finder.test
+com.shipment.util

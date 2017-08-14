@@ -1,0 +1,166 @@
+00:39:30,275 INFO  [Application] Can product be shipped to - 94133? false
+00:51:27,441 INFO  [Application] Original zip code ranges:
+00:51:27,456 INFO  [CommonUtil] 94133-94133
+00:51:27,456 INFO  [CommonUtil] 94226-94399
+00:51:27,456 INFO  [CommonUtil] 94200-94299
+00:51:27,456 INFO  [Application] Can product be shipped to - 94133? false
+01:04:10,407 INFO  [Application] Original restricted zip code ranges:
+01:04:10,428 INFO  [CommonUtil] 94133-94133
+01:04:10,429 INFO  [CommonUtil] 94226-94399
+01:04:10,429 INFO  [CommonUtil] 94200-94299
+01:04:10,429 INFO  [Application] Can product be shipped to - 94133? false
+02:05:33,051 INFO  [Application] Original restricted zip code ranges:
+02:05:33,120 INFO  [CommonUtil] 94133-94133
+02:05:33,120 INFO  [CommonUtil] 94226-94399
+02:05:33,120 INFO  [CommonUtil] 94200-94299
+02:05:33,340 INFO  [Application] Can product be shipped to - 94133? false
+02:23:01,246 INFO  [Application] Original restricted zip code ranges:
+02:23:01,289 INFO  [CommonUtil] 94133-94133
+02:23:01,289 INFO  [CommonUtil] 94226-94399
+02:23:01,289 INFO  [CommonUtil] 94200-94299
+02:23:01,418 INFO  [Application] Can product be shipped to - 94133? false
+02:23:31,577 INFO  [Application] Original restricted zip code ranges:
+02:23:31,598 INFO  [CommonUtil] 94133-94133
+02:23:31,598 INFO  [CommonUtil] 94226-94399
+02:23:31,598 INFO  [CommonUtil] 94200-94299
+02:23:31,662 INFO  [Application] Can product be shipped to - 94300? false
+02:23:53,636 INFO  [Application] Original restricted zip code ranges:
+02:23:53,658 INFO  [CommonUtil] 94133-94133
+02:23:53,658 INFO  [CommonUtil] 94226-94399
+02:23:53,658 INFO  [CommonUtil] 94200-94299
+02:23:53,721 INFO  [Application] Can product be shipped to - 94400? true
+23:43:55,148 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:43:55,460 INFO  [CommonUtil] 94133-94133
+23:43:55,461 INFO  [CommonUtil] 94200-94399
+23:43:55,461 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:43:55,461 INFO  [CommonUtil] 94133-94133
+23:43:55,461 INFO  [CommonUtil] 94200-94399
+23:43:55,461 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:43:55,461 INFO  [CommonUtil] 94133-94133
+23:43:55,461 INFO  [CommonUtil] 94200-94399
+23:43:55,461 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:43:55,461 INFO  [CommonUtil] 94133-94133
+23:43:55,461 INFO  [CommonUtil] 94200-94399
+23:47:27,053 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:47:27,058 INFO  [CommonUtil] 1000-4000
+23:47:27,058 INFO  [CommonUtil] 5000-6000
+23:57:09,304 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:57:09,309 INFO  [CommonUtil] 1000-4000
+23:57:09,309 INFO  [CommonUtil] 5000-6000
+23:58:29,043 INFO  [ShipmentUtil] Normalized zip ranges are: 
+23:58:29,047 INFO  [CommonUtil] 1000-4000
+23:58:29,048 INFO  [CommonUtil] 5000-6000
+00:10:02,520 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:10:02,525 INFO  [CommonUtil] 1000-4000
+00:10:02,525 INFO  [CommonUtil] 5000-6000
+00:15:01,399 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:15:01,402 INFO  [CommonUtil] 1000-4000
+00:15:01,402 INFO  [CommonUtil] 5000-6000
+00:17:54,184 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:17:54,188 INFO  [CommonUtil] 1000-4000
+00:17:54,188 INFO  [CommonUtil] 5000-6000
+00:17:54,189 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:17:54,189 INFO  [CommonUtil] 1-6
+00:19:51,816 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:19:51,820 INFO  [CommonUtil] 1000-4000
+00:19:51,820 INFO  [CommonUtil] 5000-6000
+00:19:51,821 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:19:51,822 INFO  [CommonUtil] 1-6
+00:19:51,822 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:19:51,822 INFO  [CommonUtil] 1-6
+00:19:51,822 INFO  [CommonUtil] 8-10
+00:20:15,156 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:15,159 INFO  [CommonUtil] 94133-94133
+00:20:15,159 INFO  [CommonUtil] 94200-94399
+00:20:15,159 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:15,159 INFO  [CommonUtil] 94133-94133
+00:20:15,159 INFO  [CommonUtil] 94200-94399
+00:20:15,160 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:15,160 INFO  [CommonUtil] 94133-94133
+00:20:15,160 INFO  [CommonUtil] 94200-94399
+00:20:15,160 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:15,160 INFO  [CommonUtil] 94133-94133
+00:20:15,160 INFO  [CommonUtil] 94200-94399
+00:20:47,990 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:47,993 INFO  [CommonUtil] 94133-94133
+00:20:47,993 INFO  [CommonUtil] 94200-94399
+00:20:47,993 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:47,993 INFO  [CommonUtil] 94133-94133
+00:20:47,994 INFO  [CommonUtil] 94200-94399
+00:20:47,994 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:47,994 INFO  [CommonUtil] 94133-94133
+00:20:47,994 INFO  [CommonUtil] 94200-94399
+00:20:47,994 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:20:47,994 INFO  [CommonUtil] 94133-94133
+00:20:47,994 INFO  [CommonUtil] 94200-94399
+00:21:43,648 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:21:43,652 INFO  [CommonUtil] 94133-94133
+00:21:43,652 INFO  [CommonUtil] 94200-94399
+00:21:43,652 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:21:43,652 INFO  [CommonUtil] 94133-94133
+00:21:43,653 INFO  [CommonUtil] 94200-94399
+00:21:43,653 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:21:43,653 INFO  [CommonUtil] 94133-94133
+00:21:43,653 INFO  [CommonUtil] 94200-94399
+00:21:43,653 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:21:43,653 INFO  [CommonUtil] 94133-94133
+00:21:43,653 INFO  [CommonUtil] 94200-94399
+00:22:58,447 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:22:58,453 INFO  [CommonUtil] 94133-94133
+00:22:58,454 INFO  [CommonUtil] 94200-94399
+00:22:58,454 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:22:58,454 INFO  [CommonUtil] 94133-94133
+00:22:58,454 INFO  [CommonUtil] 94200-94399
+00:22:58,454 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:22:58,454 INFO  [CommonUtil] 94133-94133
+00:22:58,454 INFO  [CommonUtil] 94200-94399
+00:22:58,454 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:22:58,455 INFO  [CommonUtil] 94133-94133
+00:22:58,455 INFO  [CommonUtil] 94200-94399
+00:27:10,917 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:27:10,921 INFO  [CommonUtil] 94122-94322
+00:27:10,922 INFO  [CommonUtil] 94444-95555
+00:27:10,922 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:27:10,922 INFO  [CommonUtil] 94133-94133
+00:27:10,922 INFO  [CommonUtil] 94200-94399
+00:27:10,922 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:27:10,922 INFO  [CommonUtil] 94133-94133
+00:27:10,923 INFO  [CommonUtil] 94200-94399
+00:27:10,923 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:27:10,923 INFO  [CommonUtil] 94133-94133
+00:27:10,923 INFO  [CommonUtil] 94200-94399
+00:27:10,923 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:27:10,923 INFO  [CommonUtil] 94133-94133
+00:27:10,923 INFO  [CommonUtil] 94200-94399
+00:32:13,920 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:32:13,923 INFO  [CommonUtil] 94133-94133
+00:32:13,923 INFO  [CommonUtil] 94200-94399
+00:32:13,923 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:32:13,924 INFO  [CommonUtil] 94133-94133
+00:32:13,924 INFO  [CommonUtil] 94200-94399
+00:32:13,924 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:32:13,924 INFO  [CommonUtil] 94133-94133
+00:32:13,924 INFO  [CommonUtil] 94200-94399
+00:32:13,924 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:32:13,924 INFO  [CommonUtil] 94133-94133
+00:32:13,924 INFO  [CommonUtil] 94200-94399
+00:37:15,891 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:37:15,895 INFO  [CommonUtil] 94133-94133
+00:37:15,895 INFO  [CommonUtil] 94200-94399
+00:37:15,895 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:37:15,895 INFO  [CommonUtil] 94133-94133
+00:37:15,895 INFO  [CommonUtil] 94200-94399
+00:37:15,895 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:37:15,895 INFO  [CommonUtil] 94133-94133
+00:37:15,895 INFO  [CommonUtil] 94200-94399
+00:37:15,895 INFO  [ShipmentUtil] Normalized zip ranges are: 
+00:37:15,896 INFO  [CommonUtil] 94133-94133
+00:37:15,896 INFO  [CommonUtil] 94200-94399
+01:45:10,560 INFO  [Application] Original restricted zip code ranges:
+01:45:10,862 INFO  [CommonUtil] 94133-94133
+01:45:10,862 INFO  [CommonUtil] 94226-94399
+01:45:10,863 INFO  [CommonUtil] 94200-94299
+01:45:11,221 INFO  [ShipmentUtil] Normalized zip ranges are: 
+01:45:11,221 INFO  [CommonUtil] 94133-94133
+01:45:11,222 INFO  [CommonUtil] 94200-94399
+01:45:11,223 INFO  [Application] Can product be shipped to - 94400? true
